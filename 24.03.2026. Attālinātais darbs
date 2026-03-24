@@ -1,2 +1,19 @@
+'''
 import pyjokes
 print(pyjokes.get_joke())
+
+import pyfiglet
+f = pyfiglet.figlet_format("Kristīne", font="5lineoblique")
+print(f)
+
+import cowsay
+print(cowsay.get_output_string('fox', 'Hello World'))
+'''
+import pyjokes
+import pyfiglet
+import cowsay
+
+a = pyjokes.get_joke()
+b = pyfiglet.figlet_format(a, font="5lineoblique")
+c = cowsay.get_output_string('fox', b)
+print(c)
