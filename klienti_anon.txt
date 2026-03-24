@@ -1,0 +1,15 @@
+Klients: Anna Ozola
+E-pasts: anna.ozola@example.com
+Tālrunis: 📱
+
+Klients: Jānis Bērziņš
+E-pasts: janis.berzins@test.lv
+Tālrunis: 📱
+
+Klients: Dace Ziemele
+E-pasts: ziemele.dace@paraugs.lv
+Tālrunis: 📱
+
+Klients: Didzis Pavasaris
+E-pasts: d.pavasaris@peksemplars.com
+Tālrunis: 📱
