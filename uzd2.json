@@ -1,0 +1,72 @@
+[
+  {
+    "nosaukums": "Rīga",
+    "iedzivotaji_kopā": 605273,
+    "lidz_18": 110159,
+    "no_18_lidz_65": 361953,
+    "pensionari": 133161
+  },
+  {
+    "nosaukums": "Daugavpils",
+    "iedzivotaji_kopā": 77799,
+    "lidz_18": 12836,
+    "no_18_lidz_65": 45435,
+    "pensionari": 19528
+  },
+  {
+    "nosaukums": "Liepāja",
+    "iedzivotaji_kopā": 66680,
+    "lidz_18": 12469,
+    "no_18_lidz_65": 39541,
+    "pensionari": 14670
+  },
+  {
+    "nosaukums": "Jelgava",
+    "iedzivotaji_kopā": 54672,
+    "lidz_18": 10989,
+    "no_18_lidz_65": 32803,
+    "pensionari": 10880
+  },
+  {
+    "nosaukums": "Jūrmala",
+    "iedzivotaji_kopā": 51158,
+    "lidz_18": 9055,
+    "no_18_lidz_65": 29876,
+    "pensionari": 12227
+  },
+  {
+    "nosaukums": "Ventspils",
+    "iedzivotaji_kopā": 32634,
+    "lidz_18": 5841,
+    "no_18_lidz_65": 19026,
+    "pensionari": 7767
+  },
+  {
+    "nosaukums": "Rēzekne",
+    "iedzivotaji_kopā": 26146,
+    "lidz_18": 4471,
+    "no_18_lidz_65": 15269,
+    "pensionari": 6406
+  },
+  {
+    "nosaukums": "Valmiera",
+    "iedzivotaji_kopā": 24228,
+    "lidz_18": 4724,
+    "no_18_lidz_65": 14464,
+    "pensionari": 5040
+  },
+  {
+    "nosaukums": "Ogre",
+    "iedzivotaji_kopā": 22884,
+    "lidz_18": 4599,
+    "no_18_lidz_65": 13913,
+    "pensionari": 4372
+  },
+  {
+    "nosaukums": "Jēkabpils",
+    "iedzivotaji_kopā": 21418,
+    "lidz_18": 4091,
+    "no_18_lidz_65": 12487,
+    "pensionari": 4840
+  }
+]
